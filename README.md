@@ -3,7 +3,7 @@
 A simple and interactive calculator built using **HTML, CSS, and JavaScript**. This project provides basic arithmetic operations with a clean and responsive UI.  
 
 ### **🚀 Live Demo**  
-🔗 [View Live](YOUR_GITHUB_PAGES_LINK_HERE)  
+🔗 [View Live](https://rohitbamniya4141.github.io/codsoft_taskno.3/)  
 
 ---
 
@@ -27,15 +27,6 @@ A simple and interactive calculator built using **HTML, CSS, and JavaScript**. T
 
 ---
 
-### **📥 How to Use?**  
-1. Clone this repository:  
-   ```sh
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-   ```  
-2. Open `index.html` in your browser.  
-3. Start performing calculations!  
-
----
 
 ### **💡 Future Improvements**  
 🔹 Dark mode support  
@@ -46,8 +37,8 @@ A simple and interactive calculator built using **HTML, CSS, and JavaScript**. T
 
 ### **📧 Contact Me**  
 For any feedback or suggestions, feel free to reach out:  
-📩 Email: your-email@example.com  
+📩 Email: nimcetofficial7@gmail.com  
 
 ---
 
-🛠 **Made with ❤️ by [Your Name]**  
+🛠 **Made with ❤️ by Rohit**  
